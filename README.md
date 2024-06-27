@@ -24,7 +24,7 @@
 ### Clone and Navigate to the Repository
 1. **Clone the Repo:**
    ```bash
-   git clone https://github.com/john-adeojo/graph_websearch_agent.git
+   git clone https://github.com/Emarhnuel/LangGraph_websearch_agent.git
    ```
 
 2. **Navigate to the Repo:**
@@ -82,7 +82,5 @@ Then enter your query.
    ```
 Ollama [API documentation](https://github.com/ollama/ollama/blob/main/docs/api.md#list-local-models)
 
-#### Video on how I integrated the Ollama Server:
 
-[![Watch the video](https://img.youtube.com/vi/tVcOU054iWA/0.jpg)](https://youtu.be/tVcOU054iWA)
 
